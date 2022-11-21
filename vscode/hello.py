@@ -7,3 +7,7 @@ print('hello')
 # 외부 라이브러리 사용 (데이터 분석 = pandas)
 # 외부 라이브러리 사용 (통계 = numpy)
 # 시각화 (matplotlib)
+
+a=10
+b=20
+print(a+b)
